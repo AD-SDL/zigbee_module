@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: Zigbee_Module
+Version: 1.0.0
+Summary: A simple MADSci node module for Zigbee communication. This is the first module.
+Author-email: Nour Ayyash <nourayyash123@gmail.com>
+License: MIT
+Project-URL: homepage, https://github.com/AD-SDL/Zigbee_Module
+Requires-Python: >=3.9.1
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: madsci.node_module>=0.4.3
+Requires-Dist: paho-mqtt
+Dynamic: license-file
+
+To set up the Zigbee2MQTT dongle:
+https://docs.google.com/document/d/1vv8ACUaFJsXEyJzieDJDBGVCjKzjL78euOwtSoyC9tM/edit?usp=sharing
