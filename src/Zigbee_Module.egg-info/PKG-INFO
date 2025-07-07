@@ -8,7 +8,7 @@ Project-URL: homepage, https://github.com/AD-SDL/Zigbee_Module
 Requires-Python: >=3.9.1
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
-Requires-Dist: madsci.node_module>=0.4.3
+Requires-Dist: madsci-node-module>=0.4.3
 Requires-Dist: paho-mqtt
 Dynamic: license-file
 
