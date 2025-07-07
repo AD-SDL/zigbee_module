@@ -1,0 +1,22 @@
+[project]
+name = "Zigbee_Module"
+version = "1.0.0"
+description = "A simple MADSci node module for Zigbee communication. This is the first module."
+authors = [
+    { name = "Nour Ayyash", email = "nourayyash123@gmail.com" }
+]
+dependencies = [
+    "madsci.node_module>=0.4.3",
+    "paho-mqtt",
+]
+requires-python = ">=3.9.1"
+readme = "README.md"
+license = { text = "MIT" }
+
+[project.urls]
+homepage = "https://github.com/AD-SDL/Zigbee_Module"
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.2.0",
+]
