@@ -19,4 +19,5 @@ homepage = "https://github.com/AD-SDL/Zigbee_Module"
 [dependency-groups]
 dev = [
     "pre-commit>=4.2.0",
+    "ruff>=0.4.0"
 ]
