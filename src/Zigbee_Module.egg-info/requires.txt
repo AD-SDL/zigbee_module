@@ -1,2 +1,0 @@
-madsci-node-module>=0.4.3
-paho-mqtt
